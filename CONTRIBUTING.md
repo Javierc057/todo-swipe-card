@@ -18,3 +18,4 @@ Notes and usage details for todo-swipe-card.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
